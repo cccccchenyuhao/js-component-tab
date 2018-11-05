@@ -1,4 +1,5 @@
 # js-component-tab
+[预览地址](https://cccccchenyuhao.github.io/js-component-tab/)
 ## 组件功能
 点击tab，展现对应的panel面板，页面中不同的选项卡是相互独立的。
 ## 组件实现方式
